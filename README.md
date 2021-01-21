@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Bünyamin</h1>
-<h3 align="center">Türkiye Yaşamya Çalışıyorum</h3>
+<h3 align="center">Türkiye Yaşamya Çalışan Bir Öğrenci</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
 
