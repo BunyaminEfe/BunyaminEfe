@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminefe&show_icons=true&locale=en&layout=compact" alt="bunyaminefe" /></p>
 
-[<img align="center src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Bünyamin Efe" width="600" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
+[<img align="center" src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Bünyamin Efe" width="600" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
 
 
 
