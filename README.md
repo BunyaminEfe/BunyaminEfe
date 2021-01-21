@@ -1,6 +1,4 @@
 ### Hi there 👋
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Anlık oynatılan" width="350"/>](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
 [<img src="https://spoti-arka.bunyaminefe.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
 **BunyaminEfe/BunyaminEfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
