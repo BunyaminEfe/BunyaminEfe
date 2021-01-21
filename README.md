@@ -16,7 +16,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunyaminefe&" alt="bunyaminefe" /></p>
 
-[<img src="https://spoti-arka.bunyaminefe.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
+
+<h3 align="center">[<img src="https://spoti-arka.bunyaminefe.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)</h3>
 
 <!--
 **BunyaminEfe/BunyaminEfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
