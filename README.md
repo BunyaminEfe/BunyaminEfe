@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Ben Bünyamin</h1>
 <h3 align="center">Türkiye Yaşamya Çalışan Bir Öğrenci</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler%20(Who Viewed%20My Profile)&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
