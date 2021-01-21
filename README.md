@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Ben Bünyamin</h1>
 <h3 align="center">Türkiye Yaşamya Çalışıyorum</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceletenler&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminefe&show_icons=true&locale=en&layout=compact" alt="bunyaminefe" /></p>
 
-[<img src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Bünyamin Efe" width="600" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
+[<img align="center src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Bünyamin Efe" width="600" />](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
 
 
 
