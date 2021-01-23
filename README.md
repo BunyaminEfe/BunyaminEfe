@@ -2,8 +2,11 @@
 <h3 align="center">⚡Turkey Living in a Student Employee :)⚡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler%20(Who Viewed%20My Profile)&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
+
 - ⚡ I’m currently learning **Flutter, Dart**
+
 - 📫 How to reach me **me@bunyaminefe.com.tr**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/bejo_app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/bejo_app/" height="30" width="40" /></a>
