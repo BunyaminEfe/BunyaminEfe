@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler%20(Who Viewed%20My Profile)&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
 
-- ⚡ I’m currently learning **Flutter, Dart, Qt**
+- ⚡ I’m currently learning **Flutter, Dart, Qt** 
 
 - 📫 How to reach me **me@bunyaminefe.com.tr**
 
