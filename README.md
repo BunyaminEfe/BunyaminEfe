@@ -10,9 +10,9 @@
 
 <h3 align="center">🔭Türkçe🔭</h3>
 
-- ⚡ I’m currently learning **Flutter, Dart, Qt** 
+- ⚡ Öğrendiğim diller **Flutter, Dart, Qt** 
 
-- 📫 How to reach me **me@bunyaminefe.com.tr** 
+- 📫 İletişim **me@bunyaminefe.com.tr**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
