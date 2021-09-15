@@ -7,13 +7,13 @@
 
 - ⚡ I’m currently learning **Flutter, Dart, Qt, Python, PHP** 
 
-- 📫 How to reach me **me@bunyaminefe.com.tr** 
+- 📫 How to reach me **bnefe10@gmail.com** 
 
 <h3 align="center">🔭Türkçe🔭</h3>
 
 - ⚡ Öğrendiğim diller **Flutter, Dart, Qt, Python, PHP** 
 
-- 📫 İletişim **me@bunyaminefe.com.tr**
+- 📫 İletişim **bnefe10@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
