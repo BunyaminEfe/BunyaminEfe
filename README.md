@@ -32,7 +32,7 @@
 [<p align="center"> <img src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p>](https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk)
 
 
-<p aling="center"><a href="https://mirror-h.org/search/hacker/61973/">Mirror-H</a></p>
+
 
 
 
