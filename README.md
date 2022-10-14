@@ -35,7 +35,7 @@
 <h2 align="center">🎵Music I listen to🎵</h2>
 <p align="center"> <img src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p>
 <center>
-<h1>  Spotify-Status-Real-Time-GitHub You can find how to do it in the library.</h1>
+<h6>  Spotify-Status-Real-Time-GitHub You can find how to do it in the library.</h6>
  </center>
 
 
