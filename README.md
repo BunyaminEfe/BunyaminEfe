@@ -33,7 +33,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminefe&show_icons=true&locale=en&layout=compact" alt="bunyaminefe" /></p>
 
 <h2 align="center">🎵Music I listen to🎵</h2>
-<p align="center"> <img src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status" src="https://bunyaminefe.com.tr/" alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p>
+<a href="https://bunyaminefe.com.tr/"><p align="center"> <img src="https://spoti-redmi.bunyaminefe.vercel.app/api/run-spotify-status"  alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p></a>
 
 <h6 align="center">  Spotify-Status-Real-Time-GitHub You can find how to do it in the library. </h6>
 
