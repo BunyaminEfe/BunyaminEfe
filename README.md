@@ -33,14 +33,11 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminefe&show_icons=true&locale=en&layout=compact" alt="bunyaminefe" /></p>
 
 <h2 align="center">🎵Music I listen to🎵</h2>
-<a href="https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk"><p align="center"> <img src="https://spotify-status-real-time-git-hub-vnmr.vercel.app/api/run-spotify-status"  alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p></a>
-spotify-status-real-time-git-hub-vnmr.vercel.app
-https://spotify-status-real-time-git-hub-bunyaminefe.vercel.app/api/run-spotify-status
+<a href="https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk"><p align="center"> <img src="https://spotify-status-real-time-git-hub-bunyaminefe.vercel.app/api/run-spotify-status"  alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p></a>
+
+
 
 <h6 align="center">  Spotify-Status-Real-Time-GitHub You can find how to do it in the library. </h6>
-
-
-
 
 
 
