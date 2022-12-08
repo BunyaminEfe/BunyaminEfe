@@ -38,8 +38,6 @@
 <a href="https://www.youtube.com/channel/UCtEUUW-MLfaGNIe0VuMTwXg"><p align="center"> <img src="https://readme-youtube-status-master.vercel.app/api/run-youtube-status"  alt="my youtube channel bejo" width="600" /></p></a>
 
 
-<a href="https://www.youtube.com/channel/UCtEUUW-MLfaGNIe0VuMTwXg"><p align="center"> <img src="https://readme-youtube-status-master.vercel.app/api/run-youtube-status" alt="my youtube channel bejo" width="600" /></p></a>
-
 
 <h6 align="center">  Spotify-Status-Real-Time-GitHub You can find how to do it in the library. </h6>
 
