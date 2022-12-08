@@ -36,7 +36,7 @@
 <a href="https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk"><p align="center"> <img src="https://spotify-status-real-time-git-hub-bunyaminefe.vercel.app/api/run-spotify-status"  alt="Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)" width="600" /></p></a>
 
 
-<a href="https://open.spotify.com/user/4rvni9j5l95p58zr60wicwlwk"><p align="center"><img src="https://readme-youtube-status-master.vercel.app/api/run-youtube-status" alt="Your alt what" width="600" /></p></a>
+<a href="https://www.youtube.com/channel/UCtEUUW-MLfaGNIe0VuMTwXg"><p align="center"> <img src="https://readme-youtube-status-master.vercel.app/api/run-youtube-status" alt="my youtube channel bejo" width="300" /></p></a>
 
 
 <h6 align="center">  Spotify-Status-Real-Time-GitHub You can find how to do it in the library. </h6>
